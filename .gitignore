@@ -1,0 +1,9 @@
+# Binaries
+*.o
+bench
+*.exe
+
+# Debug / temp
+*.swp
+*~
+.DS_Store
